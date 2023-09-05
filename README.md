@@ -1,3 +1,4 @@
+![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Nur Rozaqi Umam</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/564x/d7/41/dc/d741dc217ddaf1ca482333a6e66547a4.jpg">
